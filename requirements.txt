@@ -1,0 +1,5 @@
+# Add your Python dependencies here
+python-telegram-bot==21.0.1
+pymongo==4.13.0
+python-dotenv==1.0.1
+Flask==2.3.3
